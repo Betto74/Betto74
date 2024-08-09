@@ -1,8 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Alberto Antonio Arizaga Lopez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Alberto+Antonio+Arizaga+Lopez..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=20&lines=Computer+Science+Student,;In+search+of+an+Internship,;Self-taught+Full-Stack+Developer,;Competitive+Programmer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
 </p>
 
 
