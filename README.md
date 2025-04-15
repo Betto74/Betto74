@@ -10,7 +10,7 @@
 
 - 🏫: I am a `Student` at [ITSUR University](https://surguanajuato.tecnm.mx/)
 - 👨‍🎓: Graduating in December 2025.
-- :technologist: Searching for an `Internship` oportunity, this is [My Resume](https://drive.google.com/file/d/14ADyisLcB7Z5oHf6F2I7Sh8Fgl9a8b9b/view?usp=drive_link).
+- :technologist: Searching for an `Internship` oportunity, this is [My Resume](https://drive.google.com/file/d/1uR6U62trs75bX8KzJKN4OxNDp-uRZamB/view?usp=drive_link).
 - 💻: I am a competitive programmer at [`Codeforces`](https://codeforces.com/profile/Al_Lopez).
 - 📖: Always `learning new things`.
 
