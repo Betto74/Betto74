@@ -30,7 +30,7 @@
 <div align="center">
 	<a href="https://www.linkedin.com/in/albertoantonioarizagalopez/" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-	<a href="mailto:aa.arizaga47@gmail.com" target="_blank">
+	<a href="mailto:aarizagalopez@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </div>
 
